@@ -10,3 +10,4 @@
 | https://url-shortener.me/73MN	     | Oracle Multicloud Architect Professional (1Z0-1151-25)           |	[Dump](#)	 |
 | https://url-shortener.me/73NH      | Oracle Cloud Infrastructure 2025 DevOps Professional (1Z0-1109-25)|[Dump](#)	 |
 | https://url-shortener.me/7SGT      | OCI 2025 Certified Networking Professional (1Z0-1124-25)     |[Dump](#)         |
+|  https://url-shortener.me/82NU     | MySQL HeatWave Implementation Associate Rel (1Z0-915-1)      |[Dump](#)         | 
